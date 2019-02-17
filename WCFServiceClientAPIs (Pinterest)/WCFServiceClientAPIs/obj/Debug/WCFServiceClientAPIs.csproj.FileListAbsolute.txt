@@ -1,0 +1,30 @@
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\bin\Debug\WCFServiceClientAPIs.exe.config
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\bin\Debug\WCFServiceClientAPIs.exe
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\bin\Debug\WCFServiceClientAPIs.pdb
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\MainWindow.g.cs
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\App.g.cs
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs_MarkupCompile.cache
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs_MarkupCompile.lref
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\MainWindow.baml
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.g.resources
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.Properties.Resources.resources
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.csproj.GenerateResource.Cache
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.exe
+C:\Users\Shazwani\Desktop\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.pdb
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\bin\Debug\WCFServiceClientAPIs.exe.config
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.exe
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.pdb
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\bin\Debug\WCFServiceClientAPIs.exe
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\bin\Debug\WCFServiceClientAPIs.pdb
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.csprojResolveAssemblyReference.cache
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\MainWindow.g.cs
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\App.g.cs
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs_MarkupCompile.cache
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs_MarkupCompile.lref
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\MainWindow.baml
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.g.resources
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.Properties.Resources.resources
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.csproj.GenerateResource.Cache
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs (Pinterest)\WCFServiceClientAPIs\bin\Debug\WCFServiceClientAPIs.exe.config
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs (Pinterest)\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.exe
+C:\Users\Shazwani\Desktop\APIs\APIs Client\WCFServiceClientAPIs (Pinterest)\WCFServiceClientAPIs\obj\Debug\WCFServiceClientAPIs.pdb
